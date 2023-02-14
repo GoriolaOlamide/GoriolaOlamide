@@ -9,6 +9,8 @@
 🔭 I currently lead the Omdena Lagos Nigeria Chapter
 
 📫 How to reach me: goriolamide@gmail.com https://www.linkedin.com/in/olamide-olabode-goriola-48b521223/
+
+⚡ Fun fact: I'm a aspiring chef 😄
 <!--
 **GoriolaOlamide/GoriolaOlamide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
