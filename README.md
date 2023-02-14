@@ -12,3 +12,5 @@
 
 ⚡ Fun fact: I'm a aspiring chef. 😄
 
+
+Below is a few projects I've worked on
