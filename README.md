@@ -2,7 +2,7 @@
 
 🌱 I'm a data enthusiast who is passionate and always seeking ways to explore and utilize data.
 
-👀 I'm a data analyst with proficieny in Power BI and SQLite
+👀 I'm a data analyst with proficiency in Power BI and SQLite
 
 👯 I'm also machine learning research engineer with a special interest in Natural Language Processing and Recommender Systemts in the areas of economic development and healthcare
 
