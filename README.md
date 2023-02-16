@@ -17,3 +17,10 @@ Below is a few projects I've worked on
 
 
 ### [Job Recommender](https://github.com/GoriolaOlamide/Job-Recommender)
+
+This recommender was developed with public dataset for Nigerian graduates with public dataset from linkedin and glassdoor.
+
+### [Ghana Job and Skills Analysis](https://github.com/GoriolaOlamide/Ghana-Jobs-and-skills-analysis)
+
+This is an analysis for the ghana job sector. 
+The aim is to show the correlation between available jobs and applicants with thier vvarious experiences and level of education.
