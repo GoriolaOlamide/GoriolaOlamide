@@ -4,7 +4,7 @@
 
 👀 I'm a data analyst with proficiency in Power BI and SQLite
 
-👯 I'm also machine learning research engineer with a special interest in Natural Language Processing and Recommender Systemts in the areas of climate, economic development and healthcare
+👯 I'm also machine learning research engineer with a special interest in the areas of climate, economic development and healthcare
 
 🔭 I currently lead the Omdena Lagos Nigeria Chapter
 
