@@ -2,7 +2,7 @@
 
 🌱 I'm a data scientist who is passionate and always seeking ways to explore and utilize data.
 
-I am the Founder of ConvergenceAI - Fostering Responsible AI Adoption in Africa convergenceai.io
+I am the Founder of ConvergenceAI - Fostering Responsible AI Adoption in Africa [convergenceai.io](https://convergenceai.io/)
 
 👯 I'm also a machine learning research engineer with a special interest in Responsible AI in the areas of climate, economic development, and healthcare.
 
